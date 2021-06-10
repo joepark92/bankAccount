@@ -1,0 +1,6 @@
+.classpath
+.project
+bin/BankAccountTest.class
+bin/com/BankAccount.class
+.vs/slnx.sqlite
+.settings/org.eclipse.jdt.core.prefs
